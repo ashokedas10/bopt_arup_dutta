@@ -1,0 +1,3 @@
+company_code - id	- new id
+SKRMT		 -	2	-	88
+RICE GROUP	 -	1	-	87
